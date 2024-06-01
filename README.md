@@ -9,6 +9,7 @@
 - This API allows you to reserve a book.
 - Địa chỉ API mà trong báo cáo này sử dụng là: `https://simple-books-api.glitch.me`
 - Việc thực hiện kiểm thử tự động với Postman được ghi chép chi tiết ở trong file `autoTestPostman.md` ở trong dự án này.
+- File báo cáo chi tiết của việc thực hiện kiểm thử tự động được ghi chép đầy đủ tại `report.html`.
 ### Cài đặt biến baseUrl 
 Biến này được sử dụng để làm đơn giản đường dẫn url, bên dưới là ảnh cho thiết lập này.
 ![](./img/setVariableUrl.JPG)
